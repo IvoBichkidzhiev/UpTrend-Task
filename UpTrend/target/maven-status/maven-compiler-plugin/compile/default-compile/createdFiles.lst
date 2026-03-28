@@ -1,0 +1,9 @@
+org/example/Main.class
+org/example/FootballTeam.class
+org/example/FootballTeamsResponse.class
+org/example/Result.class
+org/example/EliteClubListRestClient$ApiEliteClub.class
+org/example/EliteClubListRestClient$ApiEliteClubListResponse.class
+org/example/ClubInfo.class
+org/example/EliteClubListRestClient.class
+org/example/ApplicationConfig.class

@@ -1,0 +1,4 @@
+org/example/ResultTest.class
+org/example/ResultTestUtil.class
+org/example/FixedEliteClubListRestClient.class
+org/example/PagingEliteClubListRestClient.class
